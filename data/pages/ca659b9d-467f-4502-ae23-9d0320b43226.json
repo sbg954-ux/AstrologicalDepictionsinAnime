@@ -4,11 +4,12 @@
   "created_by": "sbg954-ux",
   "title": "Astro Boy (1980) English Opening Theme",
   "slug": "astro-boy-1980-english-opening-theme",
-  "updated_at": "2026-07-01T03:53:25.549Z",
+  "updated_at": "2026-07-01T03:54:51.825Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "9242b31a-f158-4706-ba27-ec4d8683c7e3"
-  }
+  },
+  "parent": "ce139129-433c-4144-b10a-b990de66b1e0"
 }
