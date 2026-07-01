@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "sbg954-ux",
+    "is_private": false,
+    "title": "Astrological Depictions in Anime & Connections to Female Representation  ",
+    "description": "In my previous project, I analyzed 7 resources to determine the relations between Chinese and Western astrological symbolism and rising viewership in western female audience members. In this project I am using the same sources from the previous project to analyze the depictions of female characters in relation to the story from a feminist perspective to argue that Shonen anime typically over sexualize and undermine their female characters' individual arcs. \n\nI will analyze each source based on genre, and the differences in how each genre depicts their female characters.  During the research of project 2, I had found the nature of the female characters to be male-centered, which not only weakened the plot, but was damaging to both young female & male audiences, hence this expansion in Project 3. The shift in argument is the focus changing from analyzing astrological symbolism to the female characters themselves, in relation to feminist readings of the sources. \n",
+    "language": "en",
+    "slug": "AstrologicalDepictionsinAnime",
+    "creator": "sbg954-ux",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-07-01T03:40:30.666Z",
+    "updated_at": "2026-07-01T03:40:30.666Z"
   }
 }
